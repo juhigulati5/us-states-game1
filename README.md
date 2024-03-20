@@ -1,0 +1,1 @@
+This is a recreation of the Sporcle game, "Guess all 50 states." It uses the pandas library and a csv file to gather all state names, which the user can then guess. Once the user is done guessing, they can type "Exit" and will receive a list of states they did not get correct. 
